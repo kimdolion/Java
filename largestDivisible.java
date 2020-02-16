@@ -1,4 +1,4 @@
-public class largestDivisble{
+public class largestDivisible{
 
      public static void main(String []args){
         int largestNum = 0;
